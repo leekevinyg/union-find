@@ -5,7 +5,7 @@ The data structure is backed by an array and exposes the following operations:
 
 * **Union(int a, int b)**
 
-Connects 2 nodes by setting the root of one node to the root of another. This operation completes in ```O(lg n)``` time.
+Connects 2 nodes by setting the root of one node to the root of the other. This operation completes in ```O(lg n)``` time.
 
 * **Find(int a)**
 
