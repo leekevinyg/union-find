@@ -11,7 +11,7 @@ Connects 2 nodes by setting the root of one node to the root of the other. This 
 
 Returns the root of the tree that ```a``` is in. This operation completes in ```O(lg n)``` time.
 
-* getComponentCount()
+* **getComponentCount()**
 
 Returns the total number of connected components in the graph. This operation completes in constant ```O(1)``` time.
 
